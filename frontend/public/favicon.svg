@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Bowl with handles -->
+  <path d="M150 180 C 100 180, 60 150, 60 110 L 60 100 L 240 100 L 240 110 C 240 150, 200 180, 150 180 Z" fill="#f5f0e1" stroke="#1a4d2e" stroke-width="8"/>
+  
+  <!-- Left handle -->
+  <path d="M60 110 L 40 110 C 35 110, 30 115, 30 120 L 30 130 C 30 135, 35 140, 40 140 L 60 140" fill="none" stroke="#1a4d2e" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Right handle -->
+  <path d="M240 110 L 260 110 C 265 110, 270 115, 270 120 L 270 130 C 270 135, 265 140, 260 140 L 240 140" fill="none" stroke="#1a4d2e" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Fork -->
+  <path d="M150 60 L 150 100 M 135 60 L 135 90 M 165 60 L 165 90" fill="none" stroke="#1a4d2e" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Leaves -->
+  <path d="M120 60 C 100 40, 100 20, 120 20 C 140 20, 140 40, 120 60 Z" fill="none" stroke="#1a4d2e" stroke-width="8"/>
+  <path d="M180 60 C 200 40, 200 20, 180 20 C 160 20, 160 40, 180 60 Z" fill="none" stroke="#1a4d2e" stroke-width="8"/>
+  
+  <!-- Text -->
+  <text x="150" y="240" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#1a4d2e">FoodMatch</text>
+</svg>

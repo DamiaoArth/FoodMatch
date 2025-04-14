@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background circle for app icon -->
+  <circle cx="256" cy="256" r="256" fill="#f5f0e1" opacity="0.1" />
+  
+  <!-- Bowl with handles -->
+  <path d="M256 307 C 171 307, 102 256, 102 187 L 102 170 L 410 170 L 410 187 C 410 256, 341 307, 256 307 Z" fill="#f5f0e1" stroke="#1a4d2e" stroke-width="14"/>
+  
+  <!-- Left handle -->
+  <path d="M102 187 L 67 187 C 59 187, 51 195, 51 203 L 51 221 C 51 229, 59 237, 67 237 L 102 237" fill="none" stroke="#1a4d2e" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Right handle -->
+  <path d="M410 187 L 445 187 C 453 187, 461 195, 461 203 L 461 221 C 461 229, 453 237, 445 237 L 410 237" fill="none" stroke="#1a4d2e" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Fork -->
+  <path d="M256 102 L 256 170 M 230 102 L 230 154 M 282 102 L 282 154" fill="none" stroke="#1a4d2e" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Leaves -->
+  <path d="M204 102 C 171 68, 171 34, 204 34 C 237 34, 237 68, 204 102 Z" fill="none" stroke="#1a4d2e" stroke-width="14"/>
+  <path d="M308 102 C 341 68, 341 34, 308 34 C 275 34, 275 68, 308 102 Z" fill="none" stroke="#1a4d2e" stroke-width="14"/>
+</svg>
