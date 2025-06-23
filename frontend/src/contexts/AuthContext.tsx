@@ -6,6 +6,8 @@ import axios from 'axios';
 // Configuração global do axios
 axios.defaults.baseURL = 'http://localhost:8000';
 axios.defaults.headers.post['Content-Type'] = 'application/json';
+axios.defaults.headers.put['Content-Type'] = 'application/json';
+axios.defaults.headers.common['Accept'] = 'application/json';
 
 type User = {
   id: number;
